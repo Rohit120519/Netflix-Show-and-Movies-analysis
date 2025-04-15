@@ -1,4 +1,4 @@
-project is titled "Netflix: Movies and TV Shows" and it's a data analysis notebook focused on exploring a dataset of Netflix content.
+rohit project is titled "Netflix: Movies and TV Shows" and it's a data analysis notebook focused on exploring a dataset of Netflix content.
 
 🔍 Project Description:
 This project analyzes the Netflix dataset to extract insights about movies and TV shows available on the platform. It involves:
